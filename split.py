@@ -25,7 +25,7 @@ for talk in talks['talks']:
         result.append((wordsToken, tag)) # add result 
 
 # 3. Clean unnecesary gramma simbols:
-clean_simbols = ['.', '!', '?']
+clean_simbols = ['.', '!', '?', '!', ' ']
 wordsAll = [stem(w) for w in wordsAll  if wordsToken not in clean_simbols]
 wordsAll = sorted(set(wordsAll))
 tags = sorted(set(tags))
