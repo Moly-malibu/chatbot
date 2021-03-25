@@ -1,0 +1,104 @@
+{
+  "talk": [
+    {
+      "tag": "Saludo",
+      "patterns": [
+        "Hola",
+        "Oye",
+        "Cómo estás",
+        "¿Hay alguien ahí?",
+        "Hola",
+        "Buenos días"
+      ],
+      "responses": [
+        "Oye :-)",
+        "Hola, gracias por visitar",
+        "Hola, ¿qué puedo hacer por ti?",
+        "Hola, ¿en qué puedo ayudar?"
+      ]
+    },
+    {
+      "tag": "Chao",
+      "patterns": [
+        "Adiós",
+        "Nos vemos luego",
+        "Adiós"
+      ],
+      "responses": [
+        "Nos vemos más tarde, gracias por visitar",
+        "Que tenga usted un buen diaaa",
+        "Chao! Esperamos regreses pronto."
+      ]
+    },
+    {
+      "tag": "Gracias",
+      "patterns": [
+        "Gracias",
+        "Gracias a Usted",
+        "Esto es muy util",
+        "Mil  Gracias!"
+      ],
+      "responses": [
+        "Me alegro poder ayudarle!",
+        "En cualquier momento",
+        "Un placer servirle"
+      ]
+    },
+    {
+      "tag": "Musica",
+      "patterns": [
+        "Cual cancion le gustaria escuchar?",
+        "Cual genero de musica usted prefiere?",
+        "Cual Artista le gustaria escuchar?"
+      ],
+      "responses": [
+        "Puedo sugerirle el genero de musica Jazz, Romantica o Rock",
+        "tambien puedo sugerirle Blues y Country"
+      ]
+    },
+    {
+      "tag": "Artista",
+      "patterns": [
+        "Le gustaria escuchar al cantante de Rock Mark E Smith?",
+        "Usted disfruta escuchar el cantante Freddie Mercury?",
+        "Desea escuchar al cantante de Country George Strain?",
+        "El cantante Alan Jackson?",
+        "Cake", 
+        "Radio Head", 
+        "Beatles", 
+        "Pink Floyd"
+      ],
+      "responses": [
+        "Nosotros tenemos toda la  musica quee usted quiera escuchar",
+        "Nosotros todo genero y diversidad de artistas que desea escuchar"
+      ]
+    },
+    {
+      "tag": "language",
+      "patterns": [
+        "En cual Idioma le gustaria escuchar la musica?",
+        "Por cuanto tiempo quiere escuchar musica?",
+        "Cuales generos de musica usted quiere programar?"
+      ],
+      "responses": [
+        "Espanol",
+        "Una hora"
+      ]
+    },
+    {
+      "tag": "Canciones",
+      "patterns": [
+        "Puede usted sugerirme algunas canciones!",
+        "Digame por favor algo para tocar!",
+        "Do you know a songs?"
+      ],
+      "responses": [
+        "Ummagumma.",
+        "Let it Be.",
+        "Comfortably Numb", 
+        "Paranoid Android",  
+        "Hey Jude"
+      ]
+    }
+  ]
+}

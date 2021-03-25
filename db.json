@@ -1,0 +1,90 @@
+{
+    "talks": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "music",
+        "patterns": [
+          "What music do you may suggesting me?",
+          "I want to listen Jazz",
+          "I prefer Rock",
+          "to listen music"
+        ],
+        "responses": [
+          "We should suggest music as Jazz, Romantic and Rock or others",
+          "We should suggest Blues and Country or others"
+        ]
+      },
+      {
+        "tag": "Artist",
+        "patterns": [
+          "I like listen the Rock Singer Mark E Smith?",
+          "I enjoy with singer Freddie Mercury?",
+          "I like the Country Singer George Strain?",
+          "or Alan Jackson?"
+        ],
+        "responses": [
+          "We have all music that you wants",
+          "We have all singer music",
+          "Do you like listen the Rock Singer Mark E Smith?",
+          "Do you enjoy with singer Freddie Mercury?",
+          "Do you like the Country Singer George Strain?",
+          "or Alan Jackson?"
+        ]
+      },
+      {
+        "tag": "language",
+        "patterns": [
+          "what language would you like to listen to the music?",
+          "How long do you want to listen?",
+          "You can program various genres of music?"
+        ],
+        "responses": [
+          "Spanish",
+          "One hour",
+          "Yes, we have differents genres."
+        ]
+      },
+      {
+        "tag": "Songs",
+        "patterns": [
+          "Tell me a suggestion any songs!",
+          "Tell me something to play!",
+          "Do you know a songs?"
+        ],
+        "responses": [
+          "Ummagumma.",
+          "Let it Be."
+        ]
+      }
+    ]
+  }
